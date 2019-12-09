@@ -1,2 +1,1 @@
-# secureset-capstone
-SecureSets Capstone project
+# SecureSet Capstone
