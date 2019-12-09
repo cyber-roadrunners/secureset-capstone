@@ -101,7 +101,6 @@ Acting as a consulting SOC, help ACME corporation with their breach
 
 
 ## Day 2
----
 ### DATA
 
 <details><summary><strong>Data Point 1</strong></summary>
@@ -129,7 +128,6 @@ Acting as a consulting SOC, help ACME corporation with their breach
 - Task
 
 ## Day 3
----
 ### DATA
 
 <details><summary><strong>Data Point 1</strong></summary>
@@ -157,7 +155,6 @@ Acting as a consulting SOC, help ACME corporation with their breach
 - Task
 
 ## Day 4
----
 ### DATA
 
 <details><summary><strong>Data Point 1</strong></summary>
@@ -185,7 +182,6 @@ Acting as a consulting SOC, help ACME corporation with their breach
 - Task
 
 ## Day 5
----
 ### DATA
 
 <details><summary><strong>Data Point 1</strong></summary>
