@@ -16,7 +16,6 @@ Acting as a consulting SOC, help ACME corporation with their breach
 
 
 ## Day 1
----
 ### DATA
                                                 
 <details><summary><strong>CME Company Reports Massive Data Breach- SOC Has Little To No Understanding Why</strong></summary>
