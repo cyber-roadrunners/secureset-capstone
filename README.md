@@ -1,7 +1,7 @@
 # SecureSet Capstone
 
 ### Assignment
- 
+Acting as a consulting SOC, help ACME corporation with their breach
 
 <details><summary><strong>Team Members</strong></summary>
 <ul>
@@ -90,6 +90,17 @@
 </ol> 
 </details>
 
+---
+
+#### Notes
+- Note 1
+- Note 2
+
+#### Tasks Assigned/Completed
+- Task
+- Task
+
+
 ### Day 2
 ---
 #### Data
@@ -107,6 +118,16 @@
     <p>They are not sure what was exfiltrated and would like for us to find out.</p></li>
 </ol> 
 </details>
+
+---
+
+#### Notes
+- Note 1
+- Note 2
+
+#### Tasks Assigned/Completed
+- Task
+- Task
 
 ### Day 3
 ---
@@ -126,6 +147,16 @@
 </ol> 
 </details>
 
+---
+
+#### Notes
+- Note 1
+- Note 2
+
+#### Tasks Assigned/Completed
+- Task
+- Task
+
 ### Day 4
 ---
 #### Data
@@ -144,6 +175,16 @@
 </ol> 
 </details>
 
+---
+
+#### Notes
+- Note 1
+- Note 2
+
+#### Tasks Assigned/Completed
+- Task
+- Task
+
 ### Day 5
 ---
 #### Data
@@ -161,3 +202,13 @@
     <p>They are not sure what was exfiltrated and would like for us to find out.</p></li>
 </ol> 
 </details>
+
+---
+
+#### Notes
+- Note 1
+- Note 2
+
+#### Tasks Assigned/Completed
+- Task
+- Task
