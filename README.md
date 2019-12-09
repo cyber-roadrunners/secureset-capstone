@@ -17,7 +17,7 @@
 
 ### Day 1
 ---
-						News Articles
+#### News Articles
                                                 
 <details><summary><strong>CME Company Reports Massive Data Breach- SOC Has Little To No Understanding Why</strong></summary>
   <span>Date: 12/1/19</span>
@@ -53,14 +53,46 @@
 
 <details><summary><strong>Questions for CISO</strong></summary>
 <ol>
-  <li><strong>What specific info was exfiltrated?</strong>
-    <p>They are not sure what was exfiltrated and would like for us to find out.</p></li>
+	<li><strong>What specific info was exfiltrated?</strong>
+		<p>They are not sure what was exfiltrated and would like for us to find out.</p></li>
+	<li><strong>Are they still possibly in the network?</strong>
+		<p>As far as they know they are no longer in.</p></li>
+	<li><strong>Do we have a contact in the new SOC? (Buford T. Justice SOC)</strong>
+		<p>Assume yes, any questions for SOC will go to Gary.</p></li>
+	<li><strong>Do we know of any APT’s or groups that target companies like AMCE or larger corporations that they are partnered with?</strong>
+		<p>No visibility and need us to determine.</p></li>
+	<li><strong>Where is the intellectual property from any other companies located?</strong>
+		<p>On local servers</p></li>
+	<li><strong>What was Fudd’s behavior like before he quit?</strong>
+		<p>Not allowed to talk about too much as it is an HR issue, but was acting suspicious and was let go.</p></li>
+	<li><strong>What IP’s can we scan with the vulnerability scanner?</strong>
+		<p>See IP table below</p></li>
+	<li><strong>What is the site to scan?</strong>
+		<p>See IP table below</p></li>
+	<li><strong>Do we have backups?</strong>
+		<p>No, not at this time, provide recommendations.</p></li>
+	<li><strong>What are the critical assets?</strong>
+		<p>Something they would like to get from us as a recommendation during the brief.</p></li>
+	<li><strong>What, if any, compliance regulations do ACME have to adhere to?</strong>
+		<p>Production company, Sarbannes-Oxley, PCI-DSS</p></li>
+	<li><strong>What 3rd party or in house software are they using?</strong>
+		<p>TBD</p></li>
+	<li><strong>Do you have a patch update document?</strong>
+		<p>TBD</p></li>
+	<li><strong>Can we get access to any of the other servers or stations?</strong>
+		<p>TBD</p></li>
+	<li><strong>Can we have a network diagram?</strong>
+		<p>All the same VLAN, recommendations during the brief.</p></li>
+	<li><strong>Can we have access to any and all logs?</strong>
+		<p>TBD</p></li>
+	<li><strong>What if any crypto is Acme using?</strong>
+		<p>TBD</p></li>
 </ol> 
 </details>
 
 ### Day 2
 ---
-						Data
+#### Data
 
 <details><summary><strong>Data Point 1</strong></summary>
   <span>Date: Today</span>
@@ -78,7 +110,7 @@
 
 ### Day 3
 ---
-						Data
+#### Data
 
 <details><summary><strong>Data Point 1</strong></summary>
   <span>Date: Today</span>
@@ -96,7 +128,7 @@
 
 ### Day 4
 ---
-						Data
+#### Data
 
 <details><summary><strong>Data Point 1</strong></summary>
   <span>Date: Today</span>
@@ -114,7 +146,7 @@
 
 ### Day 5
 ---
-						Data
+#### Data
 
 <details><summary><strong>Data Point 1</strong></summary>
   <span>Date: Today</span>
