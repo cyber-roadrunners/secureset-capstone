@@ -1,5 +1,8 @@
 # SecureSet Capstone
 
+### Assignment
+ 
+
 <details><summary><strong>Team Members</strong></summary>
 <ul>
   <li>Ryan Dozier</li>
@@ -14,7 +17,7 @@
 
 ### Day 1
 ---
-                                                News Articles
+						News Articles
                                                 
 <details><summary><strong>CME Company Reports Massive Data Breach- SOC Has Little To No Understanding Why</strong></summary>
   <span>Date: 12/1/19</span>
@@ -57,11 +60,72 @@
 
 ### Day 2
 ---
-                                        Data
+						Data
 
 <details><summary><strong>Data Point 1</strong></summary>
   <span>Date: Today</span>
   <p>Content of Data Point 1</p>
 </details>
 
+---
+
+<details><summary><strong>Questions for CISO</strong></summary>
+<ol>
+  <li><strong>What specific info was exfiltrated?</strong>
+    <p>They are not sure what was exfiltrated and would like for us to find out.</p></li>
+</ol> 
+</details>
+
 ### Day 3
+---
+						Data
+
+<details><summary><strong>Data Point 1</strong></summary>
+  <span>Date: Today</span>
+  <p>Content of Data Point 1</p>
+</details>
+
+---
+
+<details><summary><strong>Questions for CISO</strong></summary>
+<ol>
+  <li><strong>What specific info was exfiltrated?</strong>
+    <p>They are not sure what was exfiltrated and would like for us to find out.</p></li>
+</ol> 
+</details>
+
+### Day 4
+---
+						Data
+
+<details><summary><strong>Data Point 1</strong></summary>
+  <span>Date: Today</span>
+  <p>Content of Data Point 1</p>
+</details>
+
+---
+
+<details><summary><strong>Questions for CISO</strong></summary>
+<ol>
+  <li><strong>What specific info was exfiltrated?</strong>
+    <p>They are not sure what was exfiltrated and would like for us to find out.</p></li>
+</ol> 
+</details>
+
+### Day 5
+---
+						Data
+
+<details><summary><strong>Data Point 1</strong></summary>
+  <span>Date: Today</span>
+  <p>Content of Data Point 1</p>
+</details>
+
+---
+
+<details><summary><strong>Questions for CISO</strong></summary>
+<ol>
+  <li><strong>What specific info was exfiltrated?</strong>
+    <p>They are not sure what was exfiltrated and would like for us to find out.</p></li>
+</ol> 
+</details>
