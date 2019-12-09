@@ -15,9 +15,9 @@ Acting as a consulting SOC, help ACME corporation with their breach
 </details>
 
 
-### Day 1
+## Day 1
 ---
-#### News Articles
+### DATA
                                                 
 <details><summary><strong>CME Company Reports Massive Data Breach- SOC Has Little To No Understanding Why</strong></summary>
   <span>Date: 12/1/19</span>
@@ -101,9 +101,9 @@ Acting as a consulting SOC, help ACME corporation with their breach
 - Task
 
 
-### Day 2
+## Day 2
 ---
-#### Data
+### DATA
 
 <details><summary><strong>Data Point 1</strong></summary>
   <span>Date: Today</span>
@@ -129,9 +129,9 @@ Acting as a consulting SOC, help ACME corporation with their breach
 - Task
 - Task
 
-### Day 3
+## Day 3
 ---
-#### Data
+### DATA
 
 <details><summary><strong>Data Point 1</strong></summary>
   <span>Date: Today</span>
@@ -157,9 +157,9 @@ Acting as a consulting SOC, help ACME corporation with their breach
 - Task
 - Task
 
-### Day 4
+## Day 4
 ---
-#### Data
+### DATA
 
 <details><summary><strong>Data Point 1</strong></summary>
   <span>Date: Today</span>
@@ -185,9 +185,9 @@ Acting as a consulting SOC, help ACME corporation with their breach
 - Task
 - Task
 
-### Day 5
+## Day 5
 ---
-#### Data
+### DATA
 
 <details><summary><strong>Data Point 1</strong></summary>
   <span>Date: Today</span>
