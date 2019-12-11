@@ -99,6 +99,10 @@ Acting as a consulting SOC, help ACME corporation with their breach
 - Task
 - Task
 
+#### Recomendations
+- Do this
+- Stop doing this
+
 
 ## Day 2
 ### DATA
